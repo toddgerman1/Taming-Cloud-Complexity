@@ -1,5 +1,5 @@
 import * as React from "react"
-import {
+import { 
   PlasmicCanvasHost, InitOptions
 } from "@plasmicapp/loader-gatsby"
 import { graphql } from "gatsby"
